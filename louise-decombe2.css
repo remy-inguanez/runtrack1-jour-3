@@ -1,0 +1,79 @@
+*
+{
+  font-family: serif;
+  text-align: center;
+
+}
+
+body
+{
+  background-image: url("background.jpg");
+  background-repeat:no-repeat;
+  background-position: top right;
+  background-size: 30%
+}
+
+h1
+{
+font-style: italic;
+font-variant: small-caps;
+}
+
+h3
+{
+  font-stretch: expanded;
+}
+
+.info
+
+{
+color: white;
+    width: 400px;
+    height: 200px;
+    border: 4px #23282d solid;
+    text-align: center;
+    background-color: #23282d;
+position:absolute;
+left:50%
+right:5%
+}
+
+.formation
+{
+
+display: inline-block;
+  font-style:normal;
+
+
+}
+
+.hobbie
+
+{
+
+
+border-style: dotted;
+width: 300px;
+  height: 200px;
+  border-color: blue;
+  position: relative;
+}
+.pro
+{
+  width: 400px;
+  height: 200px;
+  border: 4px #23282d solid;
+  text-align: center;
+  background-color: #23282d;
+  color:white;
+}
+
+a:hover {
+color:pink;
+text-decoration:none;
+}
+
+p:hover
+{
+color:orange;
+}

@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/763840.jpg);
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: verdana;
+ }
+ .header{
+     text-align: center;
+ }
+ header{
+     background-color: red;
+ }
+ .header h1{
+     font-family: 'Fira Code', monospace;
+     font-size: 40;
+ }
+ .header .subtitle{
+     font-family: 'Sacramento', cursive;
+     font-size: 25;
+     margin-top: -30px;
+ }
+ .header .infos{
+     text-align: left;
+     font-size: 15;
+     position: absolute;
+     top: 0;
+     left: 0;
+     background-color: #e8960c;
+     margin-top: 5px;
+     margin-left: 103px;
+ }
+ .header .infos a{
+     color: black;
+ }
+ .infos:hover{
+     text-shadow: 1px 1px black;
+ }
+ .header img{
+     max-width: 105px;
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: auto;
+     box-sizing: 100px;
+     margin-top: 5px;
+     margin-right: 5px;
+     background-color: #e8960c;
+ }
+ .passions {
+     background-color: #c85c01;
+ }
+ .langues {
+    background-color: #db7800;
+}
+.formation {
+    background-color: #e48f01;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: #a87734;
+    color: black;
+}

@@ -1,0 +1,131 @@
+
+*
+{
+font-family: monospace;verdana
+}
+
+body
+
+{
+  background-color: :Azure;
+}
+
+h1
+
+{
+
+font-size: 90px;
+color: red;
+
+}
+
+h2
+
+{
+
+color: navy;
+border:solid 2px blue;
+border-right-width: 10px;
+box-shadow: 6px 6px 0px black;
+
+
+}
+
+.info
+{
+  float: center;
+  background-color: Aliceblue;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 100px; width: 450px; height: 450px"
+}
+
+
+.formation
+
+{
+
+  position:relative;
+  left:200px
+	width:200px;
+	height:300px;
+	text-align:center;
+	top:55px;
+	right:42px;
+
+  float: center;
+  background-color: Aliceblue;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 100px; width: 350px; height: 150px"
+
+}
+
+.pro
+{
+  position:relative;
+  left:200px
+	width:400px;
+	height:200px;
+	text-align:center;
+	top:55px;
+	right:42px;
+
+  float: center;
+  background-color: Aliceblue;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 100px; width: 350px; height: 150px"
+}
+.langue
+{
+  position:relative;
+  left:200px
+	width:500px;
+	height:200px;
+	text-align:center;
+	top:55px;
+	right:42px;
+
+  float: center;
+  background-color: Aliceblue;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 100px; width: 350px; height: 150px"
+
+}
+
+.lettrine {
+  float:left;
+  font-size:30px;
+  color:white;
+  background-color:navy;
+  padding-right:5px;
+  padding-left:5px;
+  margin-right:2px
+}
+.info-all{
+  display: flex;
+}
+HTML
+.hobbie
+{
+  text-align : center;
+  padding : 1em;
+  border : 0.5em solid black;
+  width  : 12em;
+  height : 12em;
+  border-radius: 100%;
+
+  position : absolute;
+   z-index  : -1;
+   bottom   : 15px;
+   right    : 5px;
+   width    : 50%;
+   top      : 80%;
+   max-width: 200px;
+
+   box-shadow: 0px 13px 10px black;
+   transform: rotate(4deg);
+
+}

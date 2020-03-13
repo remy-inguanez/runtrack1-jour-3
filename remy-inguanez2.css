@@ -1,0 +1,32 @@
+* {
+    font-family: 'Lobster Two', cursive;
+}
+h1 {
+    font-size: 40px;
+}
+body {
+    color: whitesmoke;
+    background-image: url(wood-background-1.jpg);
+	    background-size: cover;
+        background-attachment: scroll;
+    font-family: Monospace;
+    font-size: 20px;
+}
+.photo {
+    display: flex;
+    justify-content: right;
+    flex-direction: row-reverse;
+    margin-top: -130px;
+    margin-right: 120px;
+
+ }
+h1:hover {
+    color: chocolate;
+}
+.titre2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.titre2:hover {
+    color: chocolate;
+}
